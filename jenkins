@@ -1,0 +1,15 @@
+# Jenkins Deployment on AWS EC2
+
+This project demonstrates how to install and configure Jenkins on an AWS EC2 instance.
+
+## Steps Followed
+- Launched an EC2 instance (Amazon Linux / Ubuntu)
+- Installed Java
+- Installed Jenkins
+- Configured inbound security group rule for port 8080
+- Accessed Jenkins UI in browser
+- Installed required plugins
+- Logged into Jenkins dashboard
+
+## Screenshots
+(Will upload screenshots next)
